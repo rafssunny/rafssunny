@@ -1,3 +1,11 @@
+### ⭐ Languages and Technologies
+
+<p align="left">
+Salve, meu nome é Rafael, tenho 17 anos. Tenho interesse na área de tecnologia desde os meus 13 anos, quando comecei meus estudos com a linguagem Python. No momento, estudo tanto a linguagem Python quanto JavaScript, além de outros conteúdos, como rede de computadores e Linux, principalmente devido ao meu interesse na área de cibersegurança.
+</p>
+
+---
+
 ### 👨🏻‍💻 Languages and Technologies
 
 <p align="center">
@@ -8,15 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
           
-</p>
-
----
-
-### 📊 Statistics
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafssunny&theme=midnight-purple&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafssunny&layout=compact&theme=midnight-purple"/>
 </p>
 
 ---
