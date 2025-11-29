@@ -1,7 +1,7 @@
 ### ⭐ Languages and Technologies
 
 <p align="left">
-Salve, meu nome é Rafael, tenho 17 anos. Tenho interesse na área de tecnologia desde os meus 13 anos, quando comecei meus estudos com a linguagem Python. No momento, estudo tanto a linguagem Python quanto JavaScript, além de outros conteúdos, como rede de computadores e Linux, principalmente devido ao meu interesse na área de cibersegurança.
+Opa, meu nome é Rafael, tenho 17 anos. Sou interessado na área de tecnologia desde pequeno, no entanto comecei meus estudos aos 13 anos vendo aulas sobre a linguagem de programação Python. No momento, estudo tanto a linguagem Python quanto JavaScript, além de outros conteúdos, como rede de computadores e Linux, principalmente devido ao meu interesse na área de cibersegurança.
 </p>
 
 ---
