@@ -1,7 +1,7 @@
 ### 👨🏻‍💻 Sobre mim
 
 <p align="left">
-Opa, meu nome é Rafael, tenho 17 anos. Sou interessado na área de tecnologia desde pequeno, no entanto comecei meus estudos aos 13 anos vendo aulas sobre a linguagem de programação Python. No momento, estudo tanto a linguagem Python quanto JavaScript, além de outros conteúdos, como rede de computadores e Linux, principalmente devido ao meu interesse na área de cibersegurança.
+Opa, meu nome é Rafael, tenho 17 anos. Sou interessado na área de tecnologia desde pequeno, no entanto comecei meus estudos aos 13 anos vendo aulas sobre a linguagem de programação Python. No momento, estudo tanto a linguagem Python para a criação de scripts e alguns projetos pessoais, quanto JavaScript e PHP para desenvolvimentos web, além de outros conteúdos, como Rede de Computadores, Linux e SQL.
 </p>
 
 ---
