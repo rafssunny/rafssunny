@@ -1,13 +1,13 @@
-### 👨🏻‍💻 Sobre mim
+### About me
 
 <p align="left">
-Opa, meu nome é Rafael, tenho 17 anos. Sou interessado na área de tecnologia desde pequeno, no entanto comecei meus estudos aos 13 anos vendo aulas sobre a linguagem de programação Python. No momento, estudo tanto a linguagem Python para a criação de scripts e alguns projetos pessoais, quanto JavaScript e PHP para desenvolvimentos web, além de outros conteúdos, como Rede de Computadores, Linux e SQL.
+Hi! My name is Rafael, I'm 17 years old, and I've been passionate about computing since I was very young.
+Currently, I focus on web development using PHP, but I also work on some projects with Python.
 </p>
 
 ---
 
-### 💻 Linguagens e Tecnologias
-
+### My stack
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
