@@ -1,7 +1,6 @@
 ### About me
 <p align="left">
-Hi! My name is Rafael, I'm 17 years old, and I've been passionate about computing since I was very young.
-Currently, I focus on web development using PHP, but I also work on some projects with Python.
+Hi, I'm Rafael. I like programming as a hobby, feel free to get in touch with me through one of my social networks :)
 </p>
 
 ---
