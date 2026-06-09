@@ -1,4 +1,8 @@
+I'm only posting projects on codeberg now, <a href="https://codeberg.org/rafssunny">click here</a>
+
 ### About me
+
+
 <p align="left">
 Hi, I'm Rafael. I like programming as a hobby, feel free to get in touch with me through one of my social networks :)
 </p>
